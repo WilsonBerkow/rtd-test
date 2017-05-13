@@ -2,7 +2,8 @@
 
 Experimentation with tools that could be useful for teaching newbies.
 
-See also `java-edu-2017`.
+*TODO:* update `guiExamples` to match changes in the design. See
+`java-edu-2017` for example code.
 
 ### Packages
 

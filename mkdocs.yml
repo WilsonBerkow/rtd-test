@@ -4,7 +4,7 @@ repo_url: https://github.com/WilsonBerkow/rtd-test
 
 pages:
 - Home: index.md
-- Java education:
+- Newbie Education:
     - Home: java-edu-home.md
     - Workspacer: workspacer.md
     - Abstractions for beginners: java-education.md
