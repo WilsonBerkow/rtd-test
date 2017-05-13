@@ -1,1 +1,20 @@
-site_name: My Docs
+site_name: RTD-test MkDocs
+
+repo_url: https://github.com/WilsonBerkow/rtd-test
+
+pages:
+- Home: index.md
+- Java education:
+    - Home: java-edu-home.md
+    - Workspacer: workspacer.md
+    - Abstractions for beginners: java-education.md
+- Computer Vision:
+    - stuyvision-lib: cv/stuyvision.md
+    - OpenCV: cv/opencv.md
+    - Managing noise: cv/noise.md
+- Operational:
+    - Onboarding of PoSE: ops/onboarding-pose.md
+- Meta:
+    - This site: mkdocs.md
+
+theme: readthedocs
